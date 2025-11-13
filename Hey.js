@@ -3,7 +3,4 @@
 <head>
   <title>سلام</title>
 </head>
-<body>
-  
-
 
