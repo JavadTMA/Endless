@@ -10,5 +10,6 @@
     function sayHello() {
       alert('سلام!');
     }
-  </script>
+
+
 
