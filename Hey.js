@@ -7,5 +7,5 @@
   <button onclick="sayHello()">سلام بده!</button>
 
   <script>
-    function sayHello() 
+
 
