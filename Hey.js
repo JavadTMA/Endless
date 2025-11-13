@@ -4,5 +4,5 @@
   <title>سلام</title>
 </head>
 <body>
-  <button onclick="sayHello()"
+  <button onclick
 
