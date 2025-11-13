@@ -8,4 +8,5 @@
 
   <script>
     function sayHello() {
-      alert('سلام!');
+      alert
+
