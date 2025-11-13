@@ -23,10 +23,13 @@ class Product {
 }
 
 // Sample data
+const users = [
     new User("Alice", 25),
     new User("Bob", 30),
     new User("Charlie", 35)
 ];
+
+const products = [
     new Product("Laptop", 1500),
     new Product("Phone", 800),
     new Product("Tablet", 600)
@@ -56,5 +59,3 @@ for (let i = 0; i < users.length; i++) {
         buyProduct(users[i], products[j]);
     }
 }
-
-
